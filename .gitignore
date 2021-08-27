@@ -1,0 +1,12 @@
+# php files
+/database.php
+/print.php
+/auto-delete.php
+/send-email.php
+/login.php
+
+# bootstrap
+/html
+/css
+/fonts
+/js
