@@ -25,3 +25,15 @@ All data will be stored inside Concordia's mysql database.
 > Front End : HTML/CSS
 
 > Front End : PHP
+
+# Screenshots :
+
+> > > > > ![til](screenshot/s1.PNG)
+
+> > > > > ![til](screenshot/s2.PNG)
+
+> > > > > ![til](screenshot/s3.PNG)
+
+> > > > > ![til](screenshot/s4.PNG)
+
+> > > > > ![til](screenshot/s5.PNG)
